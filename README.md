@@ -1,4 +1,4 @@
-# IRIS-Dataset-Prediction
+# IRIS-Flower-Dataset-Prediction
 Implementation of 6 well known Machine Learning models to classify the dataset. 
 
 ## The Hello World program of Machine Learning in Python 3.6
